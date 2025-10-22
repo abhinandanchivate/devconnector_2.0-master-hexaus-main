@@ -6,3 +6,7 @@
     "jwtSecret": "secret",
 }
 4. now go to package.json in master folder and keep the cursor on dev and you will see the option run script and pls click on it.
+
+
+
+https://codeshare.io/ibmreact
